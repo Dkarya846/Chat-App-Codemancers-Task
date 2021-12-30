@@ -21,9 +21,8 @@
 }
 
 /* input Text for post  */
-.post-text {
+.post-text-input {
   width: 100%;
-  min-height: 50px;
   margin: 0.5rem 0;
   font-size: 1rem;
   border: none;

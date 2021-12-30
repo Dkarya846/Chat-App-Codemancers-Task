@@ -66,7 +66,7 @@ const CreatePost = (props) => {
           aria-label="create your post"
           placeholder="Create your post"
           required={true}
-          className="post-text"
+          className="post-text-input"
           value={postText}
           onChange={(e) => setPostText(e.target.value)}
         />
